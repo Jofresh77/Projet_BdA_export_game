@@ -194,8 +194,10 @@ function player_update()
      collide_u="no"
     --------------------
     end
-  end
+  end 
   
+  ----Commentaire pour Visual Studio et Git-----
+
   --check collisions left and right
   if player.dx<0 then
   
